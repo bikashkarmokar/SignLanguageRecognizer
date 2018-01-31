@@ -1,0 +1,98 @@
+F:\32ys\PracProj\32\AirWriter\AirWriter\bin\Debug\AForge.Controls.dll
+F:\32ys\PracProj\32\AirWriter\AirWriter\bin\Debug\AForge.dll
+F:\32ys\PracProj\32\AirWriter\AirWriter\bin\Debug\AForge.Imaging.dll
+F:\32ys\PracProj\32\AirWriter\AirWriter\bin\Debug\AForge.Video.DirectShow.dll
+F:\32ys\PracProj\32\AirWriter\AirWriter\bin\Debug\AForge.Video.dll
+F:\32ys\PracProj\32\AirWriter\AirWriter\obj\Debug\ResolveAssemblyReference.cache
+F:\32ys\PracProj\32\AirWriter\AirWriter\obj\Debug\AirWriter.Properties.Resources.resources
+F:\32ys\PracProj\32\AirWriter\AirWriter\obj\Debug\AirWriter.csproj.GenerateResource.Cache
+F:\32ys\PracProj\32\AirWriter\AirWriter\bin\Debug\Interop.SpeechLib.dll
+F:\32ys\PracProj\32\AirWriter\AirWriter\obj\Debug\Interop.SpeechLib.dll
+F:\32ys\PracProj\32\AirWriter\AirWriter\obj\Debug\AirWriter.csproj.ResolveComReference.cache
+F:\32ys\PracProj\32\AirWriter\AirWriter\obj\Debug\AirWriter.AirWriter.resources
+F:\32ys\PracProj\32\AirWriter\AirWriter\obj\Debug\AirWriter.NetworkControl.resources
+F:\32ys\PracProj\32\AirWriter\AirWriter\bin\Debug\Touchless Writer.exe.config
+F:\32ys\PracProj\32\AirWriter\AirWriter\bin\Debug\Touchless Writer.exe.manifest
+F:\32ys\PracProj\32\AirWriter\AirWriter\bin\Debug\Touchless Writer.application
+F:\32ys\PracProj\32\AirWriter\AirWriter\bin\Debug\Touchless Writer.exe
+F:\32ys\PracProj\32\AirWriter\AirWriter\bin\Debug\Touchless Writer.pdb
+F:\32ys\PracProj\32\AirWriter\AirWriter\obj\Debug\Touchless Writer.TrustInfo.xml
+F:\32ys\PracProj\32\AirWriter\AirWriter\obj\Debug\Touchless Writer.exe.manifest
+F:\32ys\PracProj\32\AirWriter\AirWriter\obj\Debug\Touchless Writer.application
+F:\32ys\PracProj\32\AirWriter\AirWriter\obj\Debug\Touchless Writer.exe
+F:\32ys\PracProj\32\AirWriter\AirWriter\obj\Debug\Touchless Writer.pdb
+G:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\bin\Debug\Touchless Writer.exe.config
+G:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\obj\Debug\Interop.SpeechLib.dll
+G:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\obj\Debug\AirWriter.csproj.ResolveComReference.cache
+G:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\obj\Debug\Touchless Writer.exe
+G:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\obj\Debug\Touchless Writer.pdb
+F:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\bin\Debug\Touchless Writer.exe.config
+F:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\obj\Debug\Interop.SpeechLib.dll
+F:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\obj\Debug\AirWriter.csproj.ResolveComReference.cache
+F:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\obj\Debug\Touchless Writer.exe
+F:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\obj\Debug\Touchless Writer.pdb
+G:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\obj\Debug\ResolveAssemblyReference.cache
+G:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\bin\Debug\Touchless Writer.exe.manifest
+G:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\bin\Debug\Touchless Writer.application
+G:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\bin\Debug\Touchless Writer.exe
+G:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\bin\Debug\Touchless Writer.pdb
+G:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\bin\Debug\AForge.Controls.dll
+G:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\bin\Debug\AForge.dll
+G:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\bin\Debug\AForge.Imaging.dll
+G:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\bin\Debug\AForge.Video.DirectShow.dll
+G:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\bin\Debug\AForge.Video.dll
+G:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\bin\Debug\Interop.SpeechLib.dll
+G:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\obj\Debug\AirWriter.AirWriter.resources
+G:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\obj\Debug\AirWriter.NetworkControl.resources
+G:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\obj\Debug\AirWriter.Properties.Resources.resources
+G:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\obj\Debug\AirWriter.csproj.GenerateResource.Cache
+G:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\obj\Debug\Touchless Writer.TrustInfo.xml
+G:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\obj\Debug\Touchless Writer.exe.manifest
+G:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\obj\Debug\Touchless Writer.application
+F:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\bin\Debug\Touchless Writer.exe.manifest
+F:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\bin\Debug\Touchless Writer.application
+F:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\bin\Debug\Touchless Writer.exe
+F:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\bin\Debug\Touchless Writer.pdb
+F:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\bin\Debug\AForge.Controls.dll
+F:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\bin\Debug\AForge.dll
+F:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\bin\Debug\AForge.Imaging.dll
+F:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\bin\Debug\AForge.Video.DirectShow.dll
+F:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\bin\Debug\AForge.Video.dll
+F:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\bin\Debug\Interop.SpeechLib.dll
+F:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\obj\Debug\ResolveAssemblyReference.cache
+F:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\obj\Debug\AirWriter.AirWriter.resources
+F:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\obj\Debug\AirWriter.NetworkControl.resources
+F:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\obj\Debug\AirWriter.Properties.Resources.resources
+F:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\obj\Debug\AirWriter.csproj.GenerateResource.Cache
+F:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\obj\Debug\Touchless Writer.TrustInfo.xml
+F:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\obj\Debug\Touchless Writer.exe.manifest
+F:\32ys\ProjectBackup\20.02.2011\AirWriter\AirWriter\obj\Debug\Touchless Writer.application
+K:\Number_recognizer\AirWriter\bin\Debug\Touchless Writer.exe.config
+K:\Number_recognizer\AirWriter\obj\Debug\Interop.SpeechLib.dll
+K:\Number_recognizer\AirWriter\obj\Debug\AirWriter.csproj.ResolveComReference.cache
+K:\Number_recognizer\AirWriter\obj\Debug\Touchless Writer.exe
+K:\Number_recognizer\AirWriter\obj\Debug\Touchless Writer.pdb
+I:\Number_recognizer\AirWriter\bin\Debug\Touchless Writer.exe.config
+I:\Number_recognizer\AirWriter\obj\Debug\Interop.SpeechLib.dll
+I:\Number_recognizer\AirWriter\obj\Debug\AirWriter.csproj.ResolveComReference.cache
+I:\Number_recognizer\AirWriter\obj\Debug\Touchless Writer.exe
+I:\Number_recognizer\AirWriter\obj\Debug\Touchless Writer.pdb
+I:\Number_recognizer\AirWriter\bin\Debug\Touchless Writer.exe.manifest
+I:\Number_recognizer\AirWriter\bin\Debug\Touchless Writer.application
+I:\Number_recognizer\AirWriter\bin\Debug\Touchless Writer.exe
+I:\Number_recognizer\AirWriter\bin\Debug\Touchless Writer.pdb
+I:\Number_recognizer\AirWriter\bin\Debug\Interop.SpeechLib.dll
+I:\Number_recognizer\AirWriter\obj\Debug\ResolveAssemblyReference.cache
+I:\Number_recognizer\AirWriter\obj\Debug\AirWriter.AirWriter.resources
+I:\Number_recognizer\AirWriter\obj\Debug\AirWriter.NetworkControl.resources
+I:\Number_recognizer\AirWriter\obj\Debug\AirWriter.Properties.Resources.resources
+I:\Number_recognizer\AirWriter\obj\Debug\AirWriter.csproj.GenerateResource.Cache
+I:\Number_recognizer\AirWriter\obj\Debug\Touchless Writer.TrustInfo.xml
+I:\Number_recognizer\AirWriter\obj\Debug\Touchless Writer.exe.manifest
+I:\Number_recognizer\AirWriter\obj\Debug\Touchless Writer.application
+I:\Number_recognizer\AirWriter\bin\Debug\Emgu.CV.dll
+I:\Number_recognizer\AirWriter\bin\Debug\Emgu.CV.UI.dll
+I:\Number_recognizer\AirWriter\bin\Debug\Emgu.Util.dll
+I:\Number_recognizer\AirWriter\bin\Debug\HandGestureRecognition.SkinDetector.dll
+I:\Number_recognizer\AirWriter\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+I:\Number_recognizer\AirWriter\bin\Debug\ZedGraph.dll

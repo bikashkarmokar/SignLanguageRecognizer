@@ -1,0 +1,93 @@
+I:\Number_recognizer\AirWriter\bin\Debug\Touchless Writer.exe.config
+I:\Number_recognizer\AirWriter\bin\Debug\Touchless Writer.exe.manifest
+I:\Number_recognizer\AirWriter\bin\Debug\Touchless Writer.application
+I:\Number_recognizer\AirWriter\bin\Debug\Touchless Writer.exe
+I:\Number_recognizer\AirWriter\bin\Debug\Touchless Writer.pdb
+I:\Number_recognizer\AirWriter\bin\Debug\Emgu.CV.dll
+I:\Number_recognizer\AirWriter\bin\Debug\Emgu.CV.UI.dll
+I:\Number_recognizer\AirWriter\bin\Debug\Emgu.Util.dll
+I:\Number_recognizer\AirWriter\bin\Debug\HandGestureRecognition.SkinDetector.dll
+I:\Number_recognizer\AirWriter\bin\Debug\ZedGraph.dll
+I:\Number_recognizer\AirWriter\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+I:\Number_recognizer\AirWriter\bin\Debug\Interop.SpeechLib.dll
+I:\Number_recognizer\AirWriter\obj\Debug\ResolveAssemblyReference.cache
+I:\Number_recognizer\AirWriter\obj\Debug\Interop.SpeechLib.dll
+I:\Number_recognizer\AirWriter\obj\Debug\SignLanguageRecognizer.csproj.ResolveComReference.cache
+I:\Number_recognizer\AirWriter\obj\Debug\AirWriter.NetworkControl.resources
+I:\Number_recognizer\AirWriter\obj\Debug\AirWriter.Properties.Resources.resources
+I:\Number_recognizer\AirWriter\obj\Debug\SignLanguageRecognizer.csproj.GenerateResource.Cache
+I:\Number_recognizer\AirWriter\obj\Debug\Touchless Writer.TrustInfo.xml
+I:\Number_recognizer\AirWriter\obj\Debug\Touchless Writer.exe.manifest
+I:\Number_recognizer\AirWriter\obj\Debug\Touchless Writer.application
+I:\Number_recognizer\AirWriter\obj\Debug\Touchless Writer.exe
+I:\Number_recognizer\AirWriter\obj\Debug\Touchless Writer.pdb
+I:\Number_recognizer\AirWriter\obj\Debug\AirWriter.SignLanguageRecognizer.resources
+D:\SignLanguageRecognizer\AirWriter\bin\Debug\Touchless Writer.exe.config
+D:\SignLanguageRecognizer\AirWriter\obj\Debug\Interop.SpeechLib.dll
+D:\SignLanguageRecognizer\AirWriter\obj\Debug\SignLanguageRecognizer.csproj.ResolveComReference.cache
+D:\SignLanguageRecognizer\AirWriter\obj\Debug\Touchless Writer.exe
+D:\SignLanguageRecognizer\AirWriter\obj\Debug\Touchless Writer.pdb
+D:\SignLanguageRecognizer\AirWriter\bin\Debug\Touchless Writer.exe.manifest
+D:\SignLanguageRecognizer\AirWriter\bin\Debug\Touchless Writer.application
+D:\SignLanguageRecognizer\AirWriter\bin\Debug\Touchless Writer.exe
+D:\SignLanguageRecognizer\AirWriter\bin\Debug\Touchless Writer.pdb
+D:\SignLanguageRecognizer\AirWriter\bin\Debug\Emgu.CV.dll
+D:\SignLanguageRecognizer\AirWriter\bin\Debug\Emgu.CV.UI.dll
+D:\SignLanguageRecognizer\AirWriter\bin\Debug\Emgu.Util.dll
+D:\SignLanguageRecognizer\AirWriter\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\SignLanguageRecognizer\AirWriter\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\SignLanguageRecognizer\AirWriter\bin\Debug\Interop.SpeechLib.dll
+D:\SignLanguageRecognizer\AirWriter\obj\Debug\ResolveAssemblyReference.cache
+D:\SignLanguageRecognizer\AirWriter\obj\Debug\AirWriter.SignLanguageRecognizer.resources
+D:\SignLanguageRecognizer\AirWriter\obj\Debug\AirWriter.NetworkControl.resources
+D:\SignLanguageRecognizer\AirWriter\obj\Debug\AirWriter.Properties.Resources.resources
+D:\SignLanguageRecognizer\AirWriter\obj\Debug\SignLanguageRecognizer.csproj.GenerateResource.Cache
+D:\SignLanguageRecognizer\AirWriter\obj\Debug\Touchless Writer.TrustInfo.xml
+D:\SignLanguageRecognizer\AirWriter\obj\Debug\Touchless Writer.exe.manifest
+D:\SignLanguageRecognizer\AirWriter\obj\Debug\Touchless Writer.application
+I:\SignLanguageRecognizer\AirWriter\bin\Debug\Touchless Writer.exe.config
+I:\SignLanguageRecognizer\AirWriter\obj\Debug\Interop.SpeechLib.dll
+I:\SignLanguageRecognizer\AirWriter\obj\Debug\SignLanguageRecognizer.csproj.ResolveComReference.cache
+I:\SignLanguageRecognizer\AirWriter\obj\Debug\Touchless Writer.exe
+I:\SignLanguageRecognizer\AirWriter\obj\Debug\Touchless Writer.pdb
+I:\SignLanguageRecognizer\AirWriter\obj\Debug\ResolveAssemblyReference.cache
+I:\SignLanguageRecognizer\AirWriter\obj\Debug\AirWriter.SignLanguageRecognizer.resources
+I:\SignLanguageRecognizer\AirWriter\obj\Debug\AirWriter.NetworkControl.resources
+I:\SignLanguageRecognizer\AirWriter\obj\Debug\AirWriter.Properties.Resources.resources
+I:\SignLanguageRecognizer\AirWriter\obj\Debug\SignLanguageRecognizer.csproj.GenerateResource.Cache
+I:\SignLanguageRecognizer\AirWriter\bin\Debug\Touchless Writer.exe.manifest
+I:\SignLanguageRecognizer\AirWriter\bin\Debug\Touchless Writer.application
+I:\SignLanguageRecognizer\AirWriter\bin\Debug\Touchless Writer.exe
+I:\SignLanguageRecognizer\AirWriter\bin\Debug\Touchless Writer.pdb
+I:\SignLanguageRecognizer\AirWriter\bin\Debug\Emgu.CV.dll
+I:\SignLanguageRecognizer\AirWriter\bin\Debug\Emgu.CV.UI.dll
+I:\SignLanguageRecognizer\AirWriter\bin\Debug\Emgu.Util.dll
+I:\SignLanguageRecognizer\AirWriter\bin\Debug\HandGestureRecognition.SkinDetector.dll
+I:\SignLanguageRecognizer\AirWriter\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+I:\SignLanguageRecognizer\AirWriter\bin\Debug\Interop.SpeechLib.dll
+I:\SignLanguageRecognizer\AirWriter\obj\Debug\Touchless Writer.TrustInfo.xml
+I:\SignLanguageRecognizer\AirWriter\obj\Debug\Touchless Writer.exe.manifest
+I:\SignLanguageRecognizer\AirWriter\obj\Debug\Touchless Writer.application
+G:\42ys\Exam\Defence\SignLanguageRecognizer\AirWriter\bin\Debug\Touchless Writer.exe.config
+G:\42ys\Exam\Defence\SignLanguageRecognizer\AirWriter\obj\Debug\Interop.SpeechLib.dll
+G:\42ys\Exam\Defence\SignLanguageRecognizer\AirWriter\obj\Debug\SignLanguageRecognizer.csproj.ResolveComReference.cache
+G:\42ys\Exam\Defence\SignLanguageRecognizer\AirWriter\obj\Debug\Touchless Writer.exe
+G:\42ys\Exam\Defence\SignLanguageRecognizer\AirWriter\obj\Debug\Touchless Writer.pdb
+G:\42ys\Exam\Defence\SignLanguageRecognizer\AirWriter\bin\Debug\Touchless Writer.exe.manifest
+G:\42ys\Exam\Defence\SignLanguageRecognizer\AirWriter\bin\Debug\Touchless Writer.application
+G:\42ys\Exam\Defence\SignLanguageRecognizer\AirWriter\bin\Debug\Touchless Writer.exe
+G:\42ys\Exam\Defence\SignLanguageRecognizer\AirWriter\bin\Debug\Touchless Writer.pdb
+G:\42ys\Exam\Defence\SignLanguageRecognizer\AirWriter\bin\Debug\Emgu.CV.dll
+G:\42ys\Exam\Defence\SignLanguageRecognizer\AirWriter\bin\Debug\Emgu.CV.UI.dll
+G:\42ys\Exam\Defence\SignLanguageRecognizer\AirWriter\bin\Debug\Emgu.Util.dll
+G:\42ys\Exam\Defence\SignLanguageRecognizer\AirWriter\bin\Debug\HandGestureRecognition.SkinDetector.dll
+G:\42ys\Exam\Defence\SignLanguageRecognizer\AirWriter\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+G:\42ys\Exam\Defence\SignLanguageRecognizer\AirWriter\bin\Debug\Interop.SpeechLib.dll
+G:\42ys\Exam\Defence\SignLanguageRecognizer\AirWriter\obj\Debug\ResolveAssemblyReference.cache
+G:\42ys\Exam\Defence\SignLanguageRecognizer\AirWriter\obj\Debug\AirWriter.SignLanguageRecognizer.resources
+G:\42ys\Exam\Defence\SignLanguageRecognizer\AirWriter\obj\Debug\AirWriter.NetworkControl.resources
+G:\42ys\Exam\Defence\SignLanguageRecognizer\AirWriter\obj\Debug\AirWriter.Properties.Resources.resources
+G:\42ys\Exam\Defence\SignLanguageRecognizer\AirWriter\obj\Debug\SignLanguageRecognizer.csproj.GenerateResource.Cache
+G:\42ys\Exam\Defence\SignLanguageRecognizer\AirWriter\obj\Debug\Touchless Writer.TrustInfo.xml
+G:\42ys\Exam\Defence\SignLanguageRecognizer\AirWriter\obj\Debug\Touchless Writer.exe.manifest
+G:\42ys\Exam\Defence\SignLanguageRecognizer\AirWriter\obj\Debug\Touchless Writer.application
